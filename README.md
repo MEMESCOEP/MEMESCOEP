@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**MEMESCOEP/MEMESCOEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ❤️‍🔥 My interests:
+  * Game development
+  * Hobbyist electronics
+  * Operating system development
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+  * [Chiron](https://github.com/MEMESCOEP/Chiron), a Linux live distro for system rescue, diagnostics, and stress testing
+  * [Saturn](https://github.com/MEMESCOEP/Saturn), a cross-platform 2D game engine designed to be easy to use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+  * Embedded Linux systems with Buildroot & Yocto
+  * C++
+  * OSDev
+
+### 📫 How to reach me:
+  I can be reached via the email listed on my github profile, or by my [Discord profile](https://discordapp.com/users/702231283874660412).
+
+### 😄 Pronouns:
+  * He / Him / I don't care
+  
+### ⚡ Fun fact:
+  * Skiing and mountain biking are my favorite sports.
