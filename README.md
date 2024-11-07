@@ -1,5 +1,7 @@
 ## Heya, I'm Andrew 👋
-I like to make games, operating systems and electronic devices. I'm currently learning C++ and Embedded Linux systems with [Buildroot](https://buildroot.org/) & [The Yocto Project](https://www.yoctoproject.org/).
+I'm a student at [York College of Pennsylvania](https://www.ycp.edu/).
+
+I like to make games, operating systems and tinker with electronics. I'm currently learning C++ and Embedded Linux systems with [Buildroot](https://buildroot.org/) & [The Yocto Project](https://www.yoctoproject.org/).
 I can be reached via the email listed on my github profile, or by my [Discord profile](https://discordapp.com/users/702231283874660412).
 
 ---
