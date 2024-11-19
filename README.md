@@ -7,5 +7,6 @@ I can be reached via the email listed on my github profile, or by my [Discord pr
 ---
 
 ### Current projects:
+ * [N64 Game Engine](https://github.com/MEMESCOEP/N64GameEngine): a game engine for the N64 based on libdragon and tiny3d.
  * [Chiron](https://github.com/MEMESCOEP/Chiron): a live Linux distro for system rescue, diagnostics, and stress testing.
  * [Saturn](https://github.com/MEMESCOEP/Saturn): a cross-platform 2D game engine designed to be easy to use.
