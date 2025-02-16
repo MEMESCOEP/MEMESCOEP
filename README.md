@@ -1,8 +1,18 @@
 ## Heya, I'm Andrew 👋
-I'm a student at [York College of Pennsylvania](https://www.ycp.edu/).
+I'm a student at [York College of Pennsylvania](https://www.ycp.edu/), and I like to make games & operating systems and tinker with electronics.
 
-I like to make games, operating systems and tinker with electronics. I'm currently learning C++ and Embedded Linux systems with [Buildroot](https://buildroot.org/) & [The Yocto Project](https://www.yoctoproject.org/).
 I can be reached via the email listed on my github profile, or by my [Discord profile](https://discordapp.com/users/702231283874660412).
+
+---
+
+### My skills:
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,c,python,arduino,dotnet,godot,unity)](https://skillicons.dev)
+
+### I'm learning:
+[![My Skills](https://skillicons.dev/icons?i=cpp,ruby,java,lua,powershell,qt,blender,unreal,git)](https://skillicons.dev)
+
+### OSes I've used:
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu,arch,mint,raspberrypi,bsd)](https://skillicons.dev)
 
 ---
 
