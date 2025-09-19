@@ -1,22 +1,16 @@
-## Heya, I'm Andrew 👋
-I'm a college student. I like to make games & operating systems and tinker with electronics. I also like to ski in the winter
+# Hello, I'm Andrew  
 
-I can be reached via the email listed on my github profile, or by my [Discord profile](https://discordapp.com/users/702231283874660412).
+I'm a computer science student, and I'm passionate about game development, operating systems, and electronics.  
+I can be reached via the email on my profile, or on [Discord](https://discordapp.com/users/702231283874660412).
 
----
+<br/>
 
-### My skills:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,python,arduino,dotnet,godot,unity)](https://skillicons.dev)
+## Skills & Tools
+[![My Skills](https://skillicons.dev/icons?i=cs,python,arduino,godot,unity,git,windows,linux)](https://skillicons.dev)  
+C#, Python, Arduino, Godot, Unity, Git, Windows, Linux  
 
-### I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,ruby,java,lua,powershell,qt,blender,unreal,git)](https://skillicons.dev)
+<br/>
 
-### OSes I've used:
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu,arch,mint,raspberrypi,bsd)](https://skillicons.dev)
-
----
-
-### Current projects:
- * [N64 Game Engine](https://github.com/MEMESCOEP/N64GameEngine): a game engine for the N64 based on libdragon and tiny3d.
- * [Chiron](https://github.com/MEMESCOEP/Chiron): a live Linux distro for system rescue, diagnostics, and stress testing.
- * [Saturn](https://github.com/MEMESCOEP/Saturn): a cross-platform 2D game engine designed to be easy to use.
+## Current Projects
+- **[BorealOS](https://github.com/MEMESCOEP/BorealOS):** Hobbyist OS for learning i686 OS development.  
+- **[PicoDraw](https://github.com/MEMESCOEP/PicoDraw):** VGA/HDMI graphics library for Raspberry Pi Pico.
