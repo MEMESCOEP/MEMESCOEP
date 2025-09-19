@@ -6,10 +6,10 @@ I can be reached via the email listed on my github profile, or by my [Discord pr
 ---
 
 ### My skills:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,c,python,arduino,dotnet,godot,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cs,python,arduino,dotnet,godot,unity)](https://skillicons.dev)
 
 ### I'm learning:
-[![My Skills](https://skillicons.dev/icons?i=cpp,ruby,java,lua,powershell,qt,blender,unreal,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,ruby,java,lua,powershell,qt,blender,unreal,git)](https://skillicons.dev)
 
 ### OSes I've used:
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali,debian,ubuntu,arch,mint,raspberrypi,bsd)](https://skillicons.dev)
